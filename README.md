@@ -25,7 +25,7 @@ Optional by nation modify! Or Using clustering model to figure somethings intere
 Visualization!
 
 <br>
-![data](https://github.com/MarcoXM/Web-Analytic/blob/master/Graph/wrangling.png)<br>
+![dat](https://github.com/MarcoXM/Web-Analytic/blob/master/Graph/wrangling.png)<br>
 <br>
 
 Further more that we could do !
